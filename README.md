@@ -1,1 +1,1 @@
-# Building-Intelligence-System
+# Building Intelligence System
